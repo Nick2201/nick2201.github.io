@@ -1,5 +1,14 @@
 # Portfolio
 
+VISUAL:       Streamlit
+DEPENDENCIES: Poetry,venv
+PARSING:      requests,bs4,Selenium
+SYSTEM:       Linux,bash,Windows,PowerShell
+PLOTS:        matplotlib.pyplot, Seaborn, plotlyDash
+DATABASE:     SQL,sqlalchemy(ORM)
+OTHER:        open-ai
+DESIGN:       GangOfFour,Architecture
+UML:          diagrams io, Planctuml, excalidraw
 
 #paragraph
 ## EXTRACT:
