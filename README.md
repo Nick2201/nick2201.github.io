@@ -9,6 +9,7 @@
 - OTHER:        open-ai
 - DESIGN:       GangOfFour,Architecture
 - UML:          diagrams io, Planctuml, excalidraw
+- TEAM:         git,Jira,Notion,Obsidian
 
 #paragraph
 ## EXTRACT:
