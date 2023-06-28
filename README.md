@@ -36,6 +36,8 @@ Pet Projects:
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nick2201)](https://github.com/nick2201/github-readme-stats)
 
+
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick2201\&rank_icon=github)
 Навыки:
 > Языки программирования: Python, SQL
 > Базы данных: PostgreSQL,sqllite
