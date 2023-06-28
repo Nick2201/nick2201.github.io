@@ -30,7 +30,7 @@ Pet Projects:
 - Проект о распределении бюджета РФ :
 - Проект по оценки инфляции на основе реальных данных из чеков :[https://github.com/Nick2201/real_receipts_analyse/blob/main/project_inflation/data_processing.ipynb]
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nick2201)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nick2201&hide_progress=true)
 
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nick2201)](https://github.com/nick2201/github-readme-stats)
