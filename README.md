@@ -35,7 +35,7 @@ Pet Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nick2201&repo=github-readme-stats)](https://github.com/nick2201/github-readme-stats)
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/nick2201/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nick2201)](https://github.com/nick2201/github-readme-stats)
 
 Навыки:
 > Языки программирования: Python, SQL
