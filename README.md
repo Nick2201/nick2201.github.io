@@ -32,6 +32,7 @@ Pet Projects:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nick2201&hide_progress=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nick2201&layout=pie)](https://github.com/nick2201/github-readme-stats)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nick2201)](https://github.com/nick2201/github-readme-stats)
 
