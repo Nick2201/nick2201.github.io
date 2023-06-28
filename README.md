@@ -30,6 +30,9 @@ Pet Projects:
 - Проект о распределении бюджета РФ :
 - Проект по оценки инфляции на основе реальных данных из чеков :[https://github.com/Nick2201/real_receipts_analyse/blob/main/project_inflation/data_processing.ipynb]
 
+[laravel github profile view counter](https://github.com/caneco/laravel-github-profile-view-counter)
+
+
 Навыки:
 > Языки программирования: Python, SQL
 > Базы данных: PostgreSQL,sqllite
