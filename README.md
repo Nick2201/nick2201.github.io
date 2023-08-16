@@ -1,6 +1,6 @@
 # Portfolio
-![](http://www.sql-ex.ru/images/rate_btn/image.php?id=661754&ban=7)
-<a href=http://www.sql-ex.ru/users_page.php?uid=661754><img src=http://www.sql-ex.ru/images/rate_btn/image.php?id=661754&ban=1 alt='SQL Exercises Rank'></a>
+![http://www.sql-ex.ru/images/rate_btn/image.php?id=661754&ban=7](https://www.sql-ex.ru/images/rate_btn/image.php?id=661754&ban=7)
+
 - VISUAL:       Streamlit
 - DEPENDENCIES: Poetry,venv
 - PARSING:      requests,bs4,Selenium
