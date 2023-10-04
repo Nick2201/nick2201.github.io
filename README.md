@@ -12,15 +12,9 @@
 - UML:          diagrams io, Planctuml, excalidraw
 - TEAM:         git,Jira,Notion,Obsidian
 
-#paragraph
-## EXTRACT:
-- API
-- Parsing: 
-## TRANSFORM:
-- [# ETL Process](#ETL Process)
 
 # ETL Process
-Pet Projects:
+Projects:
 - Data Pipeline project по консолидации данных о компаниях, торгующихся на фондовом рынке США
 - extract newest TICKERS:
 (https://github.com/Nick2201/sec_gov_extract_info/tree/main/sec_primary_info)
@@ -32,14 +26,7 @@ Pet Projects:
 - Проект о распределении бюджета РФ :
 - Проект по оценки инфляции на основе реальных данных из чеков :[https://github.com/Nick2201/real_receipts_analyse/blob/main/project_inflation/data_processing.ipynb)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nick2201&hide_progress=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nick2201\&hide_progress=true)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nick2201)](https://github.com/nick2201/github-readme-stats)
-
-
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick2201\&rank_icon=github)
 Навыки:
 > Языки программирования: Python, SQL
 > Базы данных: PostgreSQL,sqllite
