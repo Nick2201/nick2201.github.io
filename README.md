@@ -15,6 +15,7 @@
 
 Projects:
 | описание | репозиторий | группа | технологии |
+| --- | --- | --- | --- |
 | Сбор актульного перечня компаний u.s. stock market| [Сбор актульного перечня компаний u.s. stock market](https://github.com/Nick2201/sec_gov_extract_info) |#investments |`etl`,`sql`,`pandas`,`docker`,`selenium`,`requiests`,`sqlalchemy`,|
 | Обработчик отчетов с сайта комисси по ценым бумагам| [Обработчик отчетов с сайта комисси по ценым бумагам](https://github.com/Nick2201/sec_gov_reports) |#investments |`etl`,`sql`,`pandas`,`docker`,`selenium`,`requiests`,`sqlalchemy`,`powerbi`,|
 | Выгрузка с различных финансовых API| [Выгрузка с различных финансовых API](https://github.com/Nick2201/extract_yf_api) |#investments |`yf_api`,`etl`,`sql`,`pandas`,`requiests`,`sqlalchemy`,|
