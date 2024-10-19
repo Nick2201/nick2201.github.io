@@ -25,6 +25,8 @@ To retrieve a list of random ingredients, you can use the
 The `kind` parameter should be either `"meat"`, `"fish"`, or `"veggies"`.
 Otherwise, [`get_random_ingredients`][lumache.get_random_ingredients] will raise an exception [`lumache.InvalidKindError`](/api#lumache.InvalidKindError).
 
+
+[[new_state]]
 For example:
 
 ```python
